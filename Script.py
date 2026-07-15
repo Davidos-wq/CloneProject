@@ -1,1 +1,1 @@
-print("Development branch active")
+print("Зміна зроблена на гітхаб")
